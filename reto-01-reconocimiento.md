@@ -22,21 +22,21 @@ Con el fin de poseer una documentación de los pasos ejecutados durante este pro
 - dig example.com any
 - theHarvester -d example.com -l 10 -b google
 
-## Resultados por herramienta (ejemplo):
+## Documentación de resultados (ejemplo):
 
-**whois example.com:**
+**Con >> whois example.com:**
 - Registrado por: IANA
 - Fecha de creación: 14 de agosto de 2020
 
-**nslookup example.com:**
+**Con >> nslookup example.com:**
 - Dirección IP: 93.184.216.34
 
-**dig example.com any:**
+**Con >> dig example.com any:**
 - Respuestas DNS:
   - a.iana-servers.net
   - b.iana-servers.net
 
-**theHarvester -d example.com -l 10 -b google:**
+**Con >> theHarvester -d example.com -l 10 -b google:**
 - Resultados encontrados: [Número de correos electrónicos, subdominios, etc.]
 
 ## Análisis:
